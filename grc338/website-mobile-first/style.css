@@ -1,0 +1,95 @@
+/*CSS DOCUMENT*/
+html, body, div, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit;}
+img {
+    width: 4em; 
+    display: block;
+}
+
+header {background-color: rgb(254, 246, 233);
+        padding: 0.75rem 1rem 0.75rem 0.75rem;}
+
+div.container{
+    max-width: 70rem;
+    margin: auto;
+    background-color: rgb(215, 215, 215);
+}
+
+body {font-family: bilo, sans-serif;
+    font-weight: 500; 
+    font-style: normal;
+    color:rgb(68, 67, 67);
+    background-color: rgb(215, 215, 215);
+    line-height: 150%;
+    }
+
+    div img{width: auto; 
+        padding: 2rem 1rem 1rem;
+    
+    }
+
+h3{font-family: bilo, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    padding: 3rem 3rem 3rem;
+}
+p{padding:3rem 3rem 3rem ;
+    }
+img{max-width: 70rem; 
+        max-height: 100%;}
+ h2{
+    font-family: bilo, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    padding: 3rem 3rem 3rem;
+    }
+
+    p{ padding: 1rem 1rem 1rem;
+    list-style-type: none;
+    }
+div img{
+    width: auto; 
+    max-height: 100%;
+
+}
+
+nav li{
+    display: inline;
+    padding:1rem 1rem 1rem;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    
+}
+a:link {
+    text-decoration: none;
+  }
+
+h4 {font-family: bilo, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+div img{
+    width: auto; 
+    max-height: 100%;
+}
+
+ul{
+    padding: 2rem 2rem 2rem;
+    list-style-type: none;
+}
+
+footer
+    {background-color:rgb(254, 246, 233);
+    padding: 0.5rem 0.5rem 0.5rem;
+	color:rgb(37, 64, 143); 
+	line-height: 140%; 	
+    max-width: 70em;
+    margin: auto;
+
+/*Please don’t change this CSS stylesheet for the content hierarchy assginment */
